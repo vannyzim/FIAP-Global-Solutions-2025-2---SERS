@@ -1,0 +1,13 @@
+Measuring the Impact of Occupancy Numbers on Energy Consumption — MDPI (2025): 
+https://www.mdpi.com/2075-5309/15/19/3598
+
+Occupancy behaviour and patterns: Impact on energy consumption — (2022).
+https://www.sciencedirect.com/science/article/pii/S2666955222000107?
+
+
+Iot Fontes: 
+IoT-Based Home and Community Energy Management: 
+https://www.sciencedirect.com/science/article/pii/S1877050919316692?
+
+IoT-Enabled Smart Home Energy Monitoring System Using ESP32:	
+https://jidt.org/jidt/article/view/611?
